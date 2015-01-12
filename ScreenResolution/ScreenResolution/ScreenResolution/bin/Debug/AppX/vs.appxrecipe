@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>IMAC_W8RP</Machine>
+    <WindowsUser>Javier</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>55F34861DDED89B7447AE7CB01B23A913D080ABD3146D83DA60B60D617E7FF1F</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>df2fd011-c426-41a6-95f7-8596ae0dee31_1.0.0.0_neutral__j6j5z4mnvcpja</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>df2fd011-c426-41a6-95f7-8596ae0dee31_j6j5z4mnvcpja!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>df2fd011-c426-41a6-95f7-8596ae0dee31</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Javier</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Javier\Documents\Visual Studio 2012\Projects\ScreenResolution\ScreenResolution\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-07-19T19:26:04.052</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\Visual Studio 2012\Projects\ScreenResolution\ScreenResolution\bin\Debug\ScreenResolution.exe">
+      <PackagePath>ScreenResolution.exe</PackagePath>
+      <Modified>2012-07-19T19:26:02.095</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\Visual Studio 2012\Projects\ScreenResolution\ScreenResolution\bin\Debug\ScreenResolution.pdb">
+      <PackagePath>ScreenResolution.pdb</PackagePath>
+      <Modified>2012-07-19T19:26:02.041</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\Visual Studio 2012\Projects\ScreenResolution\ScreenResolution\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-30T09:02:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\Visual Studio 2012\Projects\ScreenResolution\ScreenResolution\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-30T09:02:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\Visual Studio 2012\Projects\ScreenResolution\ScreenResolution\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-30T09:02:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\Visual Studio 2012\Projects\ScreenResolution\ScreenResolution\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-30T09:02:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\Visual Studio 2012\Projects\ScreenResolution\ScreenResolution\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-05-21T23:08:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\Visual Studio 2012\Projects\ScreenResolution\ScreenResolution\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-07-19T19:25:57.125</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\Visual Studio 2012\Projects\ScreenResolution\ScreenResolution\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-07-19T18:59:39.290</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\Visual Studio 2012\Projects\ScreenResolution\ScreenResolution\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-07-19T19:26:03.298</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

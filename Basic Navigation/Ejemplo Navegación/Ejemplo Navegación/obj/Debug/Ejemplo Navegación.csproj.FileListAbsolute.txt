@@ -1,0 +1,30 @@
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Navegación\Ejemplo Navegación\bin\Debug\Ejemplo Navegación.exe
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Navegación\Ejemplo Navegación\bin\Debug\Ejemplo Navegación.pdb
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Navegación\Ejemplo Navegación\bin\Debug\resources.pri
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Navegación\Ejemplo Navegación\bin\Debug\AppxManifest.xml
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Navegación\Ejemplo Navegación\bin\Debug\Ejemplo Navegación.build.appxrecipe
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Navegación\Ejemplo Navegación\obj\Debug\App.g.i.cs
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Navegación\Ejemplo Navegación\obj\Debug\App.g.cs
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Navegación\Ejemplo Navegación\obj\Debug\Common\StandardStyles.g.i.cs
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Navegación\Ejemplo Navegación\obj\Debug\Common\StandardStyles.g.cs
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Navegación\Ejemplo Navegación\obj\Debug\MainPage.g.i.cs
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Navegación\Ejemplo Navegación\obj\Debug\MainPage.g.cs
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Navegación\Ejemplo Navegación\obj\Debug\XamlTypeInfo.g.cs
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Navegación\Ejemplo Navegación\obj\Debug\App.xaml
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Navegación\Ejemplo Navegación\obj\Debug\Common\StandardStyles.xaml
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Navegación\Ejemplo Navegación\obj\Debug\MainPage.xaml
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Navegación\Ejemplo Navegación\obj\Debug\Ejemplo Navegación.exe
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Navegación\Ejemplo Navegación\obj\Debug\Ejemplo Navegación.pdb
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Navegación\Ejemplo Navegación\obj\Debug\priconfig.xml
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Navegación\Ejemplo Navegación\obj\Debug\layout.resfiles
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Navegación\Ejemplo Navegación\obj\Debug\resources.resfiles
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Navegación\Ejemplo Navegación\obj\Debug\pri.resfiles
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Navegación\Ejemplo Navegación\obj\Debug\LanguageQualifiers.txt
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Navegación\Ejemplo Navegación\obj\Debug\ProjectArchitectures.txt
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Navegación\Ejemplo Navegación\obj\Debug\Pagina.g.i.cs
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Navegación\Ejemplo Navegación\obj\Debug\Pagina.g.cs
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Navegación\Ejemplo Navegación\obj\Debug\Pagina.xaml
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Navegación\Ejemplo Navegación\obj\Debug\priconfig.xml.intermediate
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Navegación\Ejemplo Navegación\obj\Debug\layout.resfiles.intermediate
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Navegación\Ejemplo Navegación\obj\Debug\resources.resfiles.intermediate
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Navegación\Ejemplo Navegación\obj\Debug\pri.resfiles.intermediate

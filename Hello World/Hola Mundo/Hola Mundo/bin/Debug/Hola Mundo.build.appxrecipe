@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JAVIERSUREZB7A4</Machine>
+    <WindowsUser>jav.000</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\jav.000\documents\visual studio 11\Projects\Hola Mundo\Hola Mundo\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <Modified>2012-03-31T22:16:45.757</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\jav.000\documents\visual studio 11\Projects\Hola Mundo\Hola Mundo\bin\Debug\Hola Mundo.exe">
+      <PackagePath>Hola Mundo.exe</PackagePath>
+      <Modified>2012-05-05T17:03:49.187</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jav.000\documents\visual studio 11\Projects\Hola Mundo\Hola Mundo\bin\Debug\Hola Mundo.pdb">
+      <PackagePath>Hola Mundo.pdb</PackagePath>
+      <Modified>2012-05-05T17:03:49.171</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jav.000\documents\visual studio 11\Projects\Hola Mundo\Hola Mundo\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <Modified>2012-02-14T04:21:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jav.000\documents\visual studio 11\Projects\Hola Mundo\Hola Mundo\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <Modified>2012-02-14T04:21:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jav.000\documents\visual studio 11\Projects\Hola Mundo\Hola Mundo\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <Modified>2012-02-14T04:21:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jav.000\documents\visual studio 11\Projects\Hola Mundo\Hola Mundo\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <Modified>2012-02-14T04:21:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jav.000\documents\visual studio 11\Projects\Hola Mundo\Hola Mundo\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-02-14T04:21:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jav.000\documents\visual studio 11\Projects\Hola Mundo\Hola Mundo\bin\Debug\BlankPage.xaml">
+      <PackagePath>BlankPage.xaml</PackagePath>
+      <Modified>2012-05-05T13:30:24.641</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jav.000\documents\visual studio 11\Projects\Hola Mundo\Hola Mundo\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-03-31T22:10:55.548</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jav.000\documents\visual studio 11\Projects\Hola Mundo\Hola Mundo\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-03-31T22:13:54.453</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

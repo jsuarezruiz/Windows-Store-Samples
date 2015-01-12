@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>IMAC-W8-RTM</Machine>
+    <WindowsUser>Javier</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Ejemplo Gráficas\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Ejemplo Gráficas\bin\Debug\Ejemplo Gráficas.exe">
+      <PackagePath>Ejemplo Gráficas.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Ejemplo Gráficas\bin\Debug\Ejemplo Gráficas.pdb">
+      <PackagePath>Ejemplo Gráficas.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Beta v 0.1\ModernUI.Toolkit.Data.Charting.dll">
+      <PackagePath>ModernUI.Toolkit.Data.Charting.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Beta v 0.1\ModernUI.Toolkit.Data.Charting.pdb">
+      <PackagePath>ModernUI.Toolkit.Data.Charting.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Ejemplo Gráficas\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Ejemplo Gráficas\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Ejemplo Gráficas\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Ejemplo Gráficas\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Ejemplo Gráficas\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Ejemplo Gráficas\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Ejemplo Gráficas\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Beta v 0.1\Resources.resx">
+      <PackagePath>Resources.resx</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Beta v 0.1\ModernUI.Toolkit.Data.Charting\Charts\Axis\DateTimeAxisLabel.xaml">
+      <PackagePath>ModernUI.Toolkit.Data.Charting\Charts\Axis\DateTimeAxisLabel.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Beta v 0.1\ModernUI.Toolkit.Data.Charting\Charts\Axis\DisplayAxis.xaml">
+      <PackagePath>ModernUI.Toolkit.Data.Charting\Charts\Axis\DisplayAxis.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Beta v 0.1\ModernUI.Toolkit.Data.Charting\Charts\Axis\NumericAxisLabel.xaml">
+      <PackagePath>ModernUI.Toolkit.Data.Charting\Charts\Axis\NumericAxisLabel.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Beta v 0.1\ModernUI.Toolkit.Data.Charting\Charts\Axis\RangeAxis.xaml">
+      <PackagePath>ModernUI.Toolkit.Data.Charting\Charts\Axis\RangeAxis.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Beta v 0.1\ModernUI.Toolkit.Data.Charting\Charts\Chart\Chart.xaml">
+      <PackagePath>ModernUI.Toolkit.Data.Charting\Charts\Chart\Chart.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Beta v 0.1\ModernUI.Toolkit.Data.Charting\Charts\DataPoint\AreaDataPoint.xaml">
+      <PackagePath>ModernUI.Toolkit.Data.Charting\Charts\DataPoint\AreaDataPoint.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Beta v 0.1\ModernUI.Toolkit.Data.Charting\Charts\DataPoint\BarDataPoint.xaml">
+      <PackagePath>ModernUI.Toolkit.Data.Charting\Charts\DataPoint\BarDataPoint.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Beta v 0.1\ModernUI.Toolkit.Data.Charting\Charts\DataPoint\BubbleDataPoint.xaml">
+      <PackagePath>ModernUI.Toolkit.Data.Charting\Charts\DataPoint\BubbleDataPoint.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Beta v 0.1\ModernUI.Toolkit.Data.Charting\Charts\DataPoint\ColumnDataPoint.xaml">
+      <PackagePath>ModernUI.Toolkit.Data.Charting\Charts\DataPoint\ColumnDataPoint.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Beta v 0.1\ModernUI.Toolkit.Data.Charting\Charts\DataPoint\LineDataPoint.xaml">
+      <PackagePath>ModernUI.Toolkit.Data.Charting\Charts\DataPoint\LineDataPoint.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Beta v 0.1\ModernUI.Toolkit.Data.Charting\Charts\DataPoint\ScatterDataPoint.xaml">
+      <PackagePath>ModernUI.Toolkit.Data.Charting\Charts\DataPoint\ScatterDataPoint.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Beta v 0.1\ModernUI.Toolkit.Data.Charting\Charts\Primitives\DelegatingListBox.xaml">
+      <PackagePath>ModernUI.Toolkit.Data.Charting\Charts\Primitives\DelegatingListBox.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Beta v 0.1\ModernUI.Toolkit.Data.Charting\Charts\Series\AreaSeries.xaml">
+      <PackagePath>ModernUI.Toolkit.Data.Charting\Charts\Series\AreaSeries.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Beta v 0.1\ModernUI.Toolkit.Data.Charting\Charts\Series\DataPointSeries.xaml">
+      <PackagePath>ModernUI.Toolkit.Data.Charting\Charts\Series\DataPointSeries.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Beta v 0.1\ModernUI.Toolkit.Data.Charting\Charts\Series\DefinitionSeries.xaml">
+      <PackagePath>ModernUI.Toolkit.Data.Charting\Charts\Series\DefinitionSeries.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Beta v 0.1\ModernUI.Toolkit.Data.Charting\Charts\Series\LegendItem.xaml">
+      <PackagePath>ModernUI.Toolkit.Data.Charting\Charts\Series\LegendItem.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Beta v 0.1\ModernUI.Toolkit.Data.Charting\Charts\Series\LineSeries.xaml">
+      <PackagePath>ModernUI.Toolkit.Data.Charting\Charts\Series\LineSeries.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Beta v 0.1\ModernUI.Toolkit.Data.Charting\Themes\generic.xaml">
+      <PackagePath>ModernUI.Toolkit.Data.Charting\Themes\generic.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Beta v 0.1\ModernUI.Toolkit.Data.Charting\Title\Title.xaml">
+      <PackagePath>ModernUI.Toolkit.Data.Charting\Title\Title.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Ejemplo Gráficas\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

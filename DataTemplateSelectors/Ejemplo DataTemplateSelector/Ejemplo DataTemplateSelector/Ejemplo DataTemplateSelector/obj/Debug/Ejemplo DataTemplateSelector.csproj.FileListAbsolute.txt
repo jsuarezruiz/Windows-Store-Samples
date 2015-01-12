@@ -1,0 +1,27 @@
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo DataTemplateSelector\Ejemplo DataTemplateSelector\bin\Debug\Ejemplo DataTemplateSelector.exe
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo DataTemplateSelector\Ejemplo DataTemplateSelector\bin\Debug\Ejemplo DataTemplateSelector.pdb
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo DataTemplateSelector\Ejemplo DataTemplateSelector\bin\Debug\resources.pri
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo DataTemplateSelector\Ejemplo DataTemplateSelector\bin\Debug\AppxManifest.xml
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo DataTemplateSelector\Ejemplo DataTemplateSelector\bin\Debug\Ejemplo DataTemplateSelector.build.appxrecipe
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo DataTemplateSelector\Ejemplo DataTemplateSelector\obj\Debug\App.g.i.cs
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo DataTemplateSelector\Ejemplo DataTemplateSelector\obj\Debug\App.g.cs
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo DataTemplateSelector\Ejemplo DataTemplateSelector\obj\Debug\Common\StandardStyles.g.i.cs
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo DataTemplateSelector\Ejemplo DataTemplateSelector\obj\Debug\Common\StandardStyles.g.cs
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo DataTemplateSelector\Ejemplo DataTemplateSelector\obj\Debug\MainPage.g.i.cs
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo DataTemplateSelector\Ejemplo DataTemplateSelector\obj\Debug\MainPage.g.cs
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo DataTemplateSelector\Ejemplo DataTemplateSelector\obj\Debug\XamlTypeInfo.g.cs
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo DataTemplateSelector\Ejemplo DataTemplateSelector\obj\Debug\App.xaml
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo DataTemplateSelector\Ejemplo DataTemplateSelector\obj\Debug\Common\StandardStyles.xaml
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo DataTemplateSelector\Ejemplo DataTemplateSelector\obj\Debug\MainPage.xaml
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo DataTemplateSelector\Ejemplo DataTemplateSelector\obj\Debug\Ejemplo DataTemplateSelector.exe
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo DataTemplateSelector\Ejemplo DataTemplateSelector\obj\Debug\Ejemplo DataTemplateSelector.pdb
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo DataTemplateSelector\Ejemplo DataTemplateSelector\obj\Debug\priconfig.xml.intermediate
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo DataTemplateSelector\Ejemplo DataTemplateSelector\obj\Debug\layout.resfiles.intermediate
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo DataTemplateSelector\Ejemplo DataTemplateSelector\obj\Debug\resources.resfiles.intermediate
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo DataTemplateSelector\Ejemplo DataTemplateSelector\obj\Debug\pri.resfiles.intermediate
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo DataTemplateSelector\Ejemplo DataTemplateSelector\obj\Debug\priconfig.xml
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo DataTemplateSelector\Ejemplo DataTemplateSelector\obj\Debug\layout.resfiles
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo DataTemplateSelector\Ejemplo DataTemplateSelector\obj\Debug\resources.resfiles
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo DataTemplateSelector\Ejemplo DataTemplateSelector\obj\Debug\pri.resfiles
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo DataTemplateSelector\Ejemplo DataTemplateSelector\obj\Debug\LanguageQualifiers.txt
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo DataTemplateSelector\Ejemplo DataTemplateSelector\obj\Debug\ProjectArchitectures.txt

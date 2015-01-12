@@ -1,0 +1,70 @@
+﻿<Page
+    x:Class="Ejemplo_Gráficas.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Ejemplo_Gráficas"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:Chart="using:ModernUI.Toolkit.Data.Charting.Charts.Chart"
+    xmlns:Series="using:ModernUI.Toolkit.Data.Charting.Charts.Series"
+    mc:Ignorable="d">
+
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="140"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid Margin="116,0,0,0">
+            <TextBlock x:Name="pageTitle" Grid.Column="1" Text="Ejemplo Gráficas" Style="{StaticResource PageHeaderTextStyle}"/>
+        </Grid>
+        <ScrollViewer Grid.Row="1" Style="{StaticResource HorizontalScrollViewerStyle}" Margin="116,0,40,46">
+            <StackPanel Orientation="Horizontal">
+                <!-- ColumnSeries -->
+                <Chart:Chart x:Name="columnChart" HorizontalAlignment="Left" Title="Columnas" VerticalAlignment="Top" 
+                             Background="LightGray" Foreground="Black" Height="600" Width="600" Margin="25,0"
+                             >
+                    <Chart:Chart.Series>
+                        <Series:ColumnSeries x:ConnectionId='1'
+                            Title="Ventas Anuales (Ejemplo)"
+                            ItemsSource="{Binding ChartItems}"
+                            IndependentValueBinding="{Binding Name}"
+                            DependentValueBinding="{Binding Value}" 
+                            IsSelectionEnabled="True"
+                                                                           >
+                            <Series:ColumnSeries.DataPointStyle>
+                                <Style TargetType="Control">
+                                    <Setter Property="Background" Value="Red"/>
+                                </Style>
+                            </Series:ColumnSeries.DataPointStyle>
+                        </Series:ColumnSeries>
+                    </Chart:Chart.Series>
+                </Chart:Chart>
+                <!-- LineSeries -->
+                <Chart:Chart x:Name="linesChart" HorizontalAlignment="Left" Title="Líneas" VerticalAlignment="Top" 
+                             Height="600" Width="600" Margin="25,0">
+                    <Chart:Chart.Series>
+                        <Series:LineSeries
+                            Title="Ventas Anuales (Ejemplo)"
+                            ItemsSource="{Binding ChartItems}"
+                            IndependentValueBinding="{Binding Name}"
+                            DependentValueBinding="{Binding Value}" 
+                            IsSelectionEnabled="False"/>
+                    </Chart:Chart.Series>
+                </Chart:Chart>
+                <!-- BubbleSeries -->
+                <Chart:Chart x:Name="areaChart" HorizontalAlignment="Left" Title="Área" VerticalAlignment="Top" 
+                             Height="600" Width="600" Margin="25,0">
+                    <Chart:Chart.Series>
+                        <Series:AreaSeries
+                            Title="Ventas Anuales (Ejemplo)"
+                            ItemsSource="{Binding ChartItems}"
+                            IndependentValueBinding="{Binding Name}"
+                            DependentValueBinding="{Binding Value}" 
+                            IsSelectionEnabled="False"/>
+                    </Chart:Chart.Series>
+                </Chart:Chart>
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</Page>
+

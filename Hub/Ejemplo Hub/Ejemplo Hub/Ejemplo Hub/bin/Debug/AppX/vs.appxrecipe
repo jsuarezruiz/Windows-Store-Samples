@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>VIVOBOOK</Machine>
+    <WindowsUser>Javier</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>B976C7838DA08D4A56ACD8BEAF9F0004D9B62443A9ACE994BD7A43AFBEBED53F</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>2ba97dbf-26d0-4a52-a15a-99cdc1efc2dd_1.0.0.0_neutral__j6j5z4mnvcpja</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>2ba97dbf-26d0-4a52-a15a-99cdc1efc2dd_j6j5z4mnvcpja!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>2ba97dbf-26d0-4a52-a15a-99cdc1efc2dd</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Javier</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo Hub\Ejemplo Hub\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-30T18:24:33.420</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo Hub\Ejemplo Hub\bin\Debug\Ejemplo Hub.exe">
+      <PackagePath>Ejemplo Hub.exe</PackagePath>
+      <Modified>2013-07-06T10:42:01.225</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo Hub\Ejemplo Hub\bin\Debug\Ejemplo Hub.pdb">
+      <PackagePath>Ejemplo Hub.pdb</PackagePath>
+      <Modified>2013-07-06T10:42:01.126</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo Hub\Ejemplo Hub\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-26T00:16:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo Hub\Ejemplo Hub\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-26T00:16:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo Hub\Ejemplo Hub\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-26T00:16:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo Hub\Ejemplo Hub\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-26T00:16:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo Hub\Ejemplo Hub\Assets\Background.jpg">
+      <PackagePath>Assets\Background.jpg</PackagePath>
+      <Modified>2013-06-30T18:24:18.259</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo Hub\Ejemplo Hub\Assets\Xbox.jpg">
+      <PackagePath>Assets\Xbox.jpg</PackagePath>
+      <Modified>2013-06-30T10:47:29.908</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo Hub\Ejemplo Hub\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2013-06-30T10:33:35.682</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo Hub\Ejemplo Hub\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2013-07-06T10:42:00.879</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo Hub\Ejemplo Hub\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-06-30T14:42:45.755</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

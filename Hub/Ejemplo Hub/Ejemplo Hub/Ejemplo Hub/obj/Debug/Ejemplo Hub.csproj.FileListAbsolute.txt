@@ -1,0 +1,31 @@
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Hub\Ejemplo Hub\bin\Debug\App.xbf
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Hub\Ejemplo Hub\bin\Debug\MainPage.xbf
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Hub\Ejemplo Hub\bin\Debug\Ejemplo Hub.exe
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Hub\Ejemplo Hub\bin\Debug\Ejemplo Hub.pdb
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Hub\Ejemplo Hub\bin\Debug\resources.pri
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Hub\Ejemplo Hub\bin\Debug\AppxManifest.xml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Hub\Ejemplo Hub\bin\Debug\Ejemplo Hub.build.appxrecipe
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Hub\Ejemplo Hub\obj\Debug\App.g.i.cs
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Hub\Ejemplo Hub\obj\Debug\App.g.cs
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Hub\Ejemplo Hub\obj\Debug\MainPage.g.i.cs
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Hub\Ejemplo Hub\obj\Debug\MainPage.g.cs
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Hub\Ejemplo Hub\obj\Debug\XamlTypeInfo.g.cs
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Hub\Ejemplo Hub\obj\Debug\App.xaml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Hub\Ejemplo Hub\obj\Debug\App.xbf
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Hub\Ejemplo Hub\obj\Debug\XamlSaveStateFile.xml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Hub\Ejemplo Hub\obj\Debug\MainPage.xaml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Hub\Ejemplo Hub\obj\Debug\MainPage.xbf
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Hub\Ejemplo Hub\obj\Debug\Ejemplo Hub.exe
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Hub\Ejemplo Hub\obj\Debug\Ejemplo Hub.pdb
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Hub\Ejemplo Hub\obj\Debug\priconfig.xml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Hub\Ejemplo Hub\obj\Debug\priconfig.xml.intermediate
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Hub\Ejemplo Hub\obj\Debug\layout.resfiles
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Hub\Ejemplo Hub\obj\Debug\layout.resfiles.intermediate
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Hub\Ejemplo Hub\obj\Debug\resources.resfiles
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Hub\Ejemplo Hub\obj\Debug\resources.resfiles.intermediate
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Hub\Ejemplo Hub\obj\Debug\pri.resfiles
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Hub\Ejemplo Hub\obj\Debug\pri.resfiles.intermediate
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Hub\Ejemplo Hub\obj\Debug\qualifiers.txt
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Hub\Ejemplo Hub\obj\Debug\qualifiers.txt.intermediate
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Hub\Ejemplo Hub\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Hub\Ejemplo Hub\obj\Debug\ProjectArchitectures.txt

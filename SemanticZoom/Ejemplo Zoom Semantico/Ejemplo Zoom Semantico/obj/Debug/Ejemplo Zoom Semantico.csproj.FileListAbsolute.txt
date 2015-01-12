@@ -1,0 +1,27 @@
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Zoom Semantico\Ejemplo Zoom Semantico\bin\Debug\Ejemplo Zoom Semantico.exe
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Zoom Semantico\Ejemplo Zoom Semantico\bin\Debug\Ejemplo Zoom Semantico.pdb
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Zoom Semantico\Ejemplo Zoom Semantico\bin\Debug\resources.pri
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Zoom Semantico\Ejemplo Zoom Semantico\bin\Debug\AppxManifest.xml
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Zoom Semantico\Ejemplo Zoom Semantico\bin\Debug\Ejemplo Zoom Semantico.build.appxrecipe
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Zoom Semantico\Ejemplo Zoom Semantico\obj\Debug\App.g.i.cs
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Zoom Semantico\Ejemplo Zoom Semantico\obj\Debug\App.g.cs
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Zoom Semantico\Ejemplo Zoom Semantico\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Zoom Semantico\Ejemplo Zoom Semantico\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Zoom Semantico\Ejemplo Zoom Semantico\obj\Debug\FilmView.g.i.cs
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Zoom Semantico\Ejemplo Zoom Semantico\obj\Debug\FilmView.g.cs
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Zoom Semantico\Ejemplo Zoom Semantico\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Zoom Semantico\Ejemplo Zoom Semantico\obj\Debug\App.xaml
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Zoom Semantico\Ejemplo Zoom Semantico\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Zoom Semantico\Ejemplo Zoom Semantico\obj\Debug\FilmView.xaml
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Zoom Semantico\Ejemplo Zoom Semantico\obj\Debug\Ejemplo Zoom Semantico.exe
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Zoom Semantico\Ejemplo Zoom Semantico\obj\Debug\Ejemplo Zoom Semantico.pdb
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Zoom Semantico\Ejemplo Zoom Semantico\obj\Debug\priconfig.xml.intermediate
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Zoom Semantico\Ejemplo Zoom Semantico\obj\Debug\layout.resfiles.intermediate
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Zoom Semantico\Ejemplo Zoom Semantico\obj\Debug\resources.resfiles.intermediate
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Zoom Semantico\Ejemplo Zoom Semantico\obj\Debug\pri.resfiles.intermediate
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Zoom Semantico\Ejemplo Zoom Semantico\obj\Debug\priconfig.xml
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Zoom Semantico\Ejemplo Zoom Semantico\obj\Debug\layout.resfiles
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Zoom Semantico\Ejemplo Zoom Semantico\obj\Debug\resources.resfiles
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Zoom Semantico\Ejemplo Zoom Semantico\obj\Debug\pri.resfiles
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Zoom Semantico\Ejemplo Zoom Semantico\obj\Debug\LanguageQualifiers.txt
+C:\Users\Javier\documents\visual studio 2012\Projects\Ejemplo Zoom Semantico\Ejemplo Zoom Semantico\obj\Debug\ProjectArchitectures.txt

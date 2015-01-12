@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>IMAC_W8RP</Machine>
+    <WindowsUser>Javier</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>2DB3399EFBA4A3948B1BA2773478CE762BC817D36FC20948C6A19BA2B46C7409</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>4b81c546-c2c0-4c3c-8b0a-62eae45931bf_1.0.0.0_neutral__j6j5z4mnvcpja</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>4b81c546-c2c0-4c3c-8b0a-62eae45931bf_j6j5z4mnvcpja!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>4b81c546-c2c0-4c3c-8b0a-62eae45931bf</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Javier</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-08-12T19:16:37.288</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\bin\Debug\Ejemplo Tiles Secundarios.exe">
+      <PackagePath>Ejemplo Tiles Secundarios.exe</PackagePath>
+      <Modified>2012-08-12T20:25:48.518</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\bin\Debug\Ejemplo Tiles Secundarios.pdb">
+      <PackagePath>Ejemplo Tiles Secundarios.pdb</PackagePath>
+      <Modified>2012-08-12T20:25:48.493</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-30T09:02:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-30T09:02:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-30T09:02:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-30T09:02:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-05-21T23:08:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-08-12T19:16:31.860</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-08-09T21:52:54.388</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo Tiles Secundarios\Ejemplo Tiles Secundarios\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-08-12T19:16:36.466</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,27 @@
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo MetroGridHelper\Ejemplo MetroGridHelper\bin\Debug\Ejemplo MetroGridHelper.exe
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo MetroGridHelper\Ejemplo MetroGridHelper\bin\Debug\Ejemplo MetroGridHelper.pdb
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo MetroGridHelper\Ejemplo MetroGridHelper\bin\Debug\resources.pri
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo MetroGridHelper\Ejemplo MetroGridHelper\bin\Debug\AppxManifest.xml
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo MetroGridHelper\Ejemplo MetroGridHelper\bin\Debug\Ejemplo MetroGridHelper.build.appxrecipe
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo MetroGridHelper\Ejemplo MetroGridHelper\obj\Debug\App.g.i.cs
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo MetroGridHelper\Ejemplo MetroGridHelper\obj\Debug\App.g.cs
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo MetroGridHelper\Ejemplo MetroGridHelper\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo MetroGridHelper\Ejemplo MetroGridHelper\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo MetroGridHelper\Ejemplo MetroGridHelper\obj\Debug\MainPage.g.i.cs
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo MetroGridHelper\Ejemplo MetroGridHelper\obj\Debug\MainPage.g.cs
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo MetroGridHelper\Ejemplo MetroGridHelper\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo MetroGridHelper\Ejemplo MetroGridHelper\obj\Debug\App.xaml
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo MetroGridHelper\Ejemplo MetroGridHelper\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo MetroGridHelper\Ejemplo MetroGridHelper\obj\Debug\MainPage.xaml
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo MetroGridHelper\Ejemplo MetroGridHelper\obj\Debug\Ejemplo MetroGridHelper.exe
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo MetroGridHelper\Ejemplo MetroGridHelper\obj\Debug\Ejemplo MetroGridHelper.pdb
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo MetroGridHelper\Ejemplo MetroGridHelper\obj\Debug\priconfig.xml.intermediate
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo MetroGridHelper\Ejemplo MetroGridHelper\obj\Debug\layout.resfiles.intermediate
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo MetroGridHelper\Ejemplo MetroGridHelper\obj\Debug\resources.resfiles.intermediate
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo MetroGridHelper\Ejemplo MetroGridHelper\obj\Debug\pri.resfiles.intermediate
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo MetroGridHelper\Ejemplo MetroGridHelper\obj\Debug\priconfig.xml
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo MetroGridHelper\Ejemplo MetroGridHelper\obj\Debug\layout.resfiles
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo MetroGridHelper\Ejemplo MetroGridHelper\obj\Debug\resources.resfiles
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo MetroGridHelper\Ejemplo MetroGridHelper\obj\Debug\pri.resfiles
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo MetroGridHelper\Ejemplo MetroGridHelper\obj\Debug\LanguageQualifiers.txt
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo MetroGridHelper\Ejemplo MetroGridHelper\obj\Debug\ProjectArchitectures.txt

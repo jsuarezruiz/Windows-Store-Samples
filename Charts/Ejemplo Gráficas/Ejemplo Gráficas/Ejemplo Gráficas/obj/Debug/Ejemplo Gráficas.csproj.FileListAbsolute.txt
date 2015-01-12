@@ -1,0 +1,33 @@
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Ejemplo Gráficas\bin\Debug\Ejemplo Gráficas.exe
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Ejemplo Gráficas\bin\Debug\Ejemplo Gráficas.pdb
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Ejemplo Gráficas\bin\Debug\resources.pri
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Ejemplo Gráficas\bin\Debug\AppxManifest.xml
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Ejemplo Gráficas\bin\Debug\Ejemplo Gráficas.build.appxrecipe
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Ejemplo Gráficas\bin\Debug\ModernUI.Toolkit.Data.Charting.dll
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Ejemplo Gráficas\bin\Debug\ModernUI.Toolkit.Data.Charting.pdb
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Ejemplo Gráficas\bin\Debug\ModernUI.Toolkit.Data.Charting.pri
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Ejemplo Gráficas\obj\Debug\Ejemplo Gráficas.csprojResolveAssemblyReference.cache
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Ejemplo Gráficas\obj\Debug\App.g.i.cs
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Ejemplo Gráficas\obj\Debug\App.g.cs
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Ejemplo Gráficas\obj\Debug\Common\StandardStyles.g.i.cs
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Ejemplo Gráficas\obj\Debug\Common\StandardStyles.g.cs
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Ejemplo Gráficas\obj\Debug\MainPage.g.i.cs
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Ejemplo Gráficas\obj\Debug\MainPage.g.cs
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Ejemplo Gráficas\obj\Debug\XamlTypeInfo.g.cs
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Ejemplo Gráficas\obj\Debug\App.xaml
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Ejemplo Gráficas\obj\Debug\Common\StandardStyles.xaml
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Ejemplo Gráficas\obj\Debug\MainPage.xaml
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Ejemplo Gráficas\obj\Debug\Ejemplo Gráficas.exe
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Ejemplo Gráficas\obj\Debug\Ejemplo Gráficas.pdb
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Ejemplo Gráficas\obj\Debug\Ejemplo Gráficas.csproj.GenerateResource.Cache
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Ejemplo Gráficas\obj\Debug\priconfig.xml.intermediate
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Ejemplo Gráficas\obj\Debug\layout.resfiles.intermediate
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Ejemplo Gráficas\obj\Debug\resources.resfiles.intermediate
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Ejemplo Gráficas\obj\Debug\pri.resfiles.intermediate
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Ejemplo Gráficas\obj\Debug\priconfig.xml
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Ejemplo Gráficas\obj\Debug\layout.resfiles
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Ejemplo Gráficas\obj\Debug\resources.resfiles
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Ejemplo Gráficas\obj\Debug\pri.resfiles
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Ejemplo Gráficas\obj\Debug\LanguageQualifiers.txt
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Ejemplo Gráficas\obj\Debug\ModernUI.Toolkit.Data.Charting.pri.xml
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Gráficas\Ejemplo Gráficas\obj\Debug\ProjectArchitectures.txt

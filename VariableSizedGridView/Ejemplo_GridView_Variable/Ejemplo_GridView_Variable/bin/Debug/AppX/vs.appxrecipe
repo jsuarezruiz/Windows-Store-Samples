@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JAVIERSUREZB7A4</Machine>
+    <WindowsUser>jav.000</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>CB5489563E30F53893E65E5ED7C7173A73898EF5508264A622744AB0900FFE6B</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>496cb356-b3c5-4607-98dc-b2b9c49cc374_1.0.0.0_neutral__krhqfsmpgre1e</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>496cb356-b3c5-4607-98dc-b2b9c49cc374_krhqfsmpgre1e!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>496cb356-b3c5-4607-98dc-b2b9c49cc374</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=jav.000</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\jav.000\documents\visual studio 11\Projects\Ejemplo_GridView_Variable\Ejemplo_GridView_Variable\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <Modified>2012-05-23T20:02:00.246</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\jav.000\documents\visual studio 11\Projects\Ejemplo_GridView_Variable\Ejemplo_GridView_Variable\bin\Debug\Ejemplo_GridView_Variable.exe">
+      <PackagePath>Ejemplo_GridView_Variable.exe</PackagePath>
+      <Modified>2012-05-23T20:25:15.333</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jav.000\documents\visual studio 11\Projects\Ejemplo_GridView_Variable\Ejemplo_GridView_Variable\bin\Debug\Ejemplo_GridView_Variable.pdb">
+      <PackagePath>Ejemplo_GridView_Variable.pdb</PackagePath>
+      <Modified>2012-05-23T20:25:15.275</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jav.000\documents\visual studio 11\Projects\Ejemplo_GridView_Variable\Ejemplo_GridView_Variable\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <Modified>2012-02-14T03:21:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jav.000\documents\visual studio 11\Projects\Ejemplo_GridView_Variable\Ejemplo_GridView_Variable\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <Modified>2012-02-14T03:21:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jav.000\documents\visual studio 11\Projects\Ejemplo_GridView_Variable\Ejemplo_GridView_Variable\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <Modified>2012-02-14T03:21:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jav.000\documents\visual studio 11\Projects\Ejemplo_GridView_Variable\Ejemplo_GridView_Variable\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <Modified>2012-02-14T03:21:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jav.000\documents\visual studio 11\Projects\Ejemplo_GridView_Variable\Ejemplo_GridView_Variable\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2012-02-14T03:21:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jav.000\documents\visual studio 11\Projects\Ejemplo_GridView_Variable\Ejemplo_GridView_Variable\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2012-02-14T03:21:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jav.000\documents\visual studio 11\Projects\Ejemplo_GridView_Variable\Ejemplo_GridView_Variable\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2012-02-14T03:21:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jav.000\documents\visual studio 11\Projects\Ejemplo_GridView_Variable\Ejemplo_GridView_Variable\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-05-23T20:10:37.702</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jav.000\documents\visual studio 11\Projects\Ejemplo_GridView_Variable\Ejemplo_GridView_Variable\bin\Debug\GroupedItemsPage.xaml">
+      <PackagePath>GroupedItemsPage.xaml</PackagePath>
+      <Modified>2012-05-23T20:25:12.335</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jav.000\documents\visual studio 11\Projects\Ejemplo_GridView_Variable\Ejemplo_GridView_Variable\bin\Debug\GroupDetailPage.xaml">
+      <PackagePath>GroupDetailPage.xaml</PackagePath>
+      <Modified>2012-05-19T14:04:22.794</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jav.000\documents\visual studio 11\Projects\Ejemplo_GridView_Variable\Ejemplo_GridView_Variable\bin\Debug\ItemDetailPage.xaml">
+      <PackagePath>ItemDetailPage.xaml</PackagePath>
+      <Modified>2012-05-19T14:04:22.813</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jav.000\documents\visual studio 11\Projects\Ejemplo_GridView_Variable\Ejemplo_GridView_Variable\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-05-19T14:04:22.687</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jav.000\documents\visual studio 11\Projects\Ejemplo_GridView_Variable\Ejemplo_GridView_Variable\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-05-19T14:06:43.415</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

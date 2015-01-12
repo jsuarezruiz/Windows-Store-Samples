@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WINDOWS8</Machine>
+    <WindowsUser>Javier</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>B16511B1A71C1FCE76B80E5F6644196FEDAE9C1CE391B8D07DF2EC98AF1E48B9</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>06b42d83-4cdb-47f1-91be-3d08296b7ea1_1.0.0.0_neutral__j6j5z4mnvcpja</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>06b42d83-4cdb-47f1-91be-3d08296b7ea1_j6j5z4mnvcpja!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>06b42d83-4cdb-47f1-91be-3d08296b7ea1</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Javier</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo FilePicker\Ejemplo FilePicker\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-26T18:44:39.736</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo FilePicker\Ejemplo FilePicker\bin\Debug\Ejemplo FilePicker.exe">
+      <PackagePath>Ejemplo FilePicker.exe</PackagePath>
+      <Modified>2012-11-26T18:44:39.637</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo FilePicker\Ejemplo FilePicker\bin\Debug\Ejemplo FilePicker.pdb">
+      <PackagePath>Ejemplo FilePicker.pdb</PackagePath>
+      <Modified>2012-11-26T18:44:39.615</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo FilePicker\Ejemplo FilePicker\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-25T10:17:40.172</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo FilePicker\Ejemplo FilePicker\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-25T10:19:30.160</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo FilePicker\Ejemplo FilePicker\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-25T09:56:01.024</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo FilePicker\Ejemplo FilePicker\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T19:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo FilePicker\Ejemplo FilePicker\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-11-25T17:38:18.565</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo FilePicker\Ejemplo FilePicker\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T15:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo FilePicker\Ejemplo FilePicker\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-11-25T17:45:53.916</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\Visual Studio 2012\Projects\Ejemplo FilePicker\Ejemplo FilePicker\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-11-25T17:50:38.922</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

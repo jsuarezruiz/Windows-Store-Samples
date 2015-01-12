@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>IMAC-W8-RTM</Machine>
+    <WindowsUser>Javier</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>14898FD4416C50C782FCC9E3EB2324E9D6D6895107FC2C59CEFEEFF4D939FCA9</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>cbde8f75-3949-4df1-902d-07884ced7077_1.0.0.0_neutral__j6j5z4mnvcpja</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>cbde8f75-3949-4df1-902d-07884ced7077_j6j5z4mnvcpja!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>cbde8f75-3949-4df1-902d-07884ced7077</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Javier</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Button Wrap\Ejemplo Button Wrap\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-10-07T19:32:48.468</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Button Wrap\Ejemplo Button Wrap\bin\Debug\Ejemplo Button Wrap.exe">
+      <PackagePath>Ejemplo Button Wrap.exe</PackagePath>
+      <Modified>2012-10-07T19:32:47.149</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Button Wrap\Ejemplo Button Wrap\bin\Debug\Ejemplo Button Wrap.pdb">
+      <PackagePath>Ejemplo Button Wrap.pdb</PackagePath>
+      <Modified>2012-10-07T19:32:47.123</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Button Wrap\Ejemplo Button Wrap\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-18T15:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Button Wrap\Ejemplo Button Wrap\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-18T15:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Button Wrap\Ejemplo Button Wrap\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-18T15:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Button Wrap\Ejemplo Button Wrap\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-18T15:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Button Wrap\Ejemplo Button Wrap\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-10-07T19:31:00.961</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Button Wrap\Ejemplo Button Wrap\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-07-26T18:24:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Button Wrap\Ejemplo Button Wrap\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-10-07T19:32:45.073</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Button Wrap\Ejemplo Button Wrap\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-10-07T19:32:47.290</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

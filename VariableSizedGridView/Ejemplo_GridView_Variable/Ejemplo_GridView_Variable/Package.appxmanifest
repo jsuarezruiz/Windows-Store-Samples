@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+
+  <Identity Name="496cb356-b3c5-4607-98dc-b2b9c49cc374"
+            Publisher="CN=jav.000"
+            Version="1.0.0.0" />
+
+  <Properties>
+    <DisplayName>Ejemplo_GridView_Variable</DisplayName>
+    <PublisherDisplayName>jav.000</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+    <Description>Ejemplo_GridView_Variable</Description>
+  </Properties>
+
+  <Prerequisites>
+    <OSMinVersion>6.2</OSMinVersion>
+    <OSMaxVersionTested>6.2</OSMaxVersionTested>
+  </Prerequisites>
+
+  <Resources>
+    <Resource Language="x-generate"/>
+  </Resources>
+
+  <Applications>
+    <Application Id="App"
+        Executable="$targetnametoken$.exe"
+        EntryPoint="Ejemplo_GridView_Variable.App">
+        <VisualElements
+            DisplayName="Ejemplo_GridView_Variable"
+            Logo="Assets\Logo.png"
+            SmallLogo="Assets\SmallLogo.png"
+            Description="Ejemplo_GridView_Variable"
+            ForegroundText="light"
+            BackgroundColor="#222222">
+            <DefaultTile ShowName="allLogos" />
+            <SplashScreen Image="Assets\SplashScreen.png" />
+        </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>

@@ -1,0 +1,17 @@
+C:\Users\Javier\Desktop\Q42-Q42.WinRT-9f615f5\Q42.WinRT\bin\Debug\Q42.WinRT.dll
+C:\Users\Javier\Desktop\Q42-Q42.WinRT-9f615f5\Q42.WinRT\bin\Debug\Q42.WinRT.pdb
+C:\Users\Javier\Desktop\Q42-Q42.WinRT-9f615f5\Q42.WinRT\bin\Debug\Q42.WinRT.pri
+C:\Users\Javier\Desktop\Q42-Q42.WinRT-9f615f5\Q42.WinRT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Javier\Desktop\Q42-Q42.WinRT-9f615f5\Q42.WinRT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Javier\Desktop\Q42-Q42.WinRT-9f615f5\Q42.WinRT\obj\Debug\Q42.WinRT.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Desktop\Q42-Q42.WinRT-9f615f5\Q42.WinRT\obj\Debug\Q42.WinRT.dll
+C:\Users\Javier\Desktop\Q42-Q42.WinRT-9f615f5\Q42.WinRT\obj\Debug\Q42.WinRT.pdb
+C:\Users\Javier\Desktop\Q42-Q42.WinRT-9f615f5\Q42.WinRT\obj\Debug\priconfig.xml.intermediate
+C:\Users\Javier\Desktop\Q42-Q42.WinRT-9f615f5\Q42.WinRT\obj\Debug\layout.resfiles.intermediate
+C:\Users\Javier\Desktop\Q42-Q42.WinRT-9f615f5\Q42.WinRT\obj\Debug\resources.resfiles.intermediate
+C:\Users\Javier\Desktop\Q42-Q42.WinRT-9f615f5\Q42.WinRT\obj\Debug\pri.resfiles.intermediate
+C:\Users\Javier\Desktop\Q42-Q42.WinRT-9f615f5\Q42.WinRT\obj\Debug\priconfig.xml
+C:\Users\Javier\Desktop\Q42-Q42.WinRT-9f615f5\Q42.WinRT\obj\Debug\layout.resfiles
+C:\Users\Javier\Desktop\Q42-Q42.WinRT-9f615f5\Q42.WinRT\obj\Debug\resources.resfiles
+C:\Users\Javier\Desktop\Q42-Q42.WinRT-9f615f5\Q42.WinRT\obj\Debug\pri.resfiles
+C:\Users\Javier\Desktop\Q42-Q42.WinRT-9f615f5\Q42.WinRT\obj\Debug\LanguageQualifiers.txt

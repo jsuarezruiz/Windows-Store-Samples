@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>IMAC-W8-RTM</Machine>
+    <WindowsUser>Javier</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>355F22F64F3860F3C6BC7B5C1C7E005AB24F9DF5E7C1764D182E3D553D5BE623</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>fad39265-f433-42a2-a359-fd7b0dcc24d4_1.0.0.0_neutral__j6j5z4mnvcpja</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>fad39265-f433-42a2-a359-fd7b0dcc24d4_j6j5z4mnvcpja!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>fad39265-f433-42a2-a359-fd7b0dcc24d4</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Javier</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Snap View\Ejemplo Snap View\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-09-23T17:28:12.324</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Snap View\Ejemplo Snap View\bin\Debug\Ejemplo Snap View.exe">
+      <PackagePath>Ejemplo Snap View.exe</PackagePath>
+      <Modified>2012-09-23T17:34:27.694</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Snap View\Ejemplo Snap View\bin\Debug\Ejemplo Snap View.pdb">
+      <PackagePath>Ejemplo Snap View.pdb</PackagePath>
+      <Modified>2012-09-23T17:34:27.667</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Snap View\Ejemplo Snap View\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-18T15:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Snap View\Ejemplo Snap View\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-18T15:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Snap View\Ejemplo Snap View\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-18T15:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Snap View\Ejemplo Snap View\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-18T15:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Snap View\Ejemplo Snap View\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2012-09-23T17:14:39.344</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Snap View\Ejemplo Snap View\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-09-23T17:13:35.846</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Snap View\Ejemplo Snap View\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-07-26T18:24:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Snap View\Ejemplo Snap View\bin\Debug\SnapView.xaml">
+      <PackagePath>SnapView.xaml</PackagePath>
+      <Modified>2012-09-23T17:17:51.512</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2012\Projects\Ejemplo Snap View\Ejemplo Snap View\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-09-23T17:16:43.432</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

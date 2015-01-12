@@ -1,0 +1,23 @@
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo FilePicker\Ejemplo FilePicker\bin\Debug\Ejemplo FilePicker.exe
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo FilePicker\Ejemplo FilePicker\bin\Debug\Ejemplo FilePicker.pdb
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo FilePicker\Ejemplo FilePicker\bin\Debug\resources.pri
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo FilePicker\Ejemplo FilePicker\bin\Debug\AppxManifest.xml
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo FilePicker\Ejemplo FilePicker\bin\Debug\Ejemplo FilePicker.build.appxrecipe
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo FilePicker\Ejemplo FilePicker\obj\Debug\App.g.i.cs
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo FilePicker\Ejemplo FilePicker\obj\Debug\App.g.cs
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo FilePicker\Ejemplo FilePicker\obj\Debug\Common\StandardStyles.g.i.cs
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo FilePicker\Ejemplo FilePicker\obj\Debug\Common\StandardStyles.g.cs
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo FilePicker\Ejemplo FilePicker\obj\Debug\MainPage.g.i.cs
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo FilePicker\Ejemplo FilePicker\obj\Debug\MainPage.g.cs
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo FilePicker\Ejemplo FilePicker\obj\Debug\XamlTypeInfo.g.cs
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo FilePicker\Ejemplo FilePicker\obj\Debug\App.xaml
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo FilePicker\Ejemplo FilePicker\obj\Debug\Common\StandardStyles.xaml
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo FilePicker\Ejemplo FilePicker\obj\Debug\MainPage.xaml
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo FilePicker\Ejemplo FilePicker\obj\Debug\Ejemplo FilePicker.exe
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo FilePicker\Ejemplo FilePicker\obj\Debug\Ejemplo FilePicker.pdb
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo FilePicker\Ejemplo FilePicker\obj\Debug\priconfig.xml
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo FilePicker\Ejemplo FilePicker\obj\Debug\layout.resfiles
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo FilePicker\Ejemplo FilePicker\obj\Debug\resources.resfiles
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo FilePicker\Ejemplo FilePicker\obj\Debug\pri.resfiles
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo FilePicker\Ejemplo FilePicker\obj\Debug\LanguageQualifiers.txt
+c:\users\javier\documents\visual studio 2012\Projects\Ejemplo FilePicker\Ejemplo FilePicker\obj\Debug\ProjectArchitectures.txt
